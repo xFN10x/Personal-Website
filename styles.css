@@ -38,6 +38,7 @@ code {
 
 .dual-div {
   display: flex;
+  margin: 2rem 0;
 }
 
 .showcase {
